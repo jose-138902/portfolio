@@ -13,7 +13,7 @@ body {
 
 
 header{
-    background-image: url("https://pngtree.com/free-backgrounds-photos/website");
+    background-image: url("https://www.freepik.com/free-photos-vectors/authentic-professional-background");
     height: 300vh;
 }
 
@@ -24,7 +24,7 @@ main{
 .main{
     width:50%;
     height: 75vh;
-    background-image: linear-gradient(90deg,rgba(0, 0, 0, 0.1) 0%, rgba(50, 82, 64, 0.1) 29%, rgba(245, 220, 0, 0.1) 100%) ,url("https://www.123freevectors.com/abstract-cool-grey-texture-background-design-120752/");
+    background-image: linear-gradient(90deg,rgba(0, 0, 0, 0.1) 0%, rgba(50, 82, 64, 0.1) 29%, rgba(245, 220, 0, 0.1) 40%) ,url("https://www.123freevectors.com/abstract-cool-grey-texture-background-design-120752/");
 
 }
 
@@ -35,7 +35,7 @@ main{
 
 footer{
     height: 50vh;
-    background-image: url("https://unsplash.com/s/photos/website-background");
+    background-image: url("https://www.freepik.com/free-photos-vectors/professional-background");
 }
 
 
