@@ -48,6 +48,9 @@ main,footer,header{
 }
 
 footer{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     height: 50vh;
     box-shadow: 2px 2px 2px blue;
     background-image: url("https://www.freepik.com/free-photos-vectors/professional-background");
