@@ -18,6 +18,9 @@ header{
     background-image: url("https://www.freepik.com/free-photos-vectors/authentic-professional-background");
     height: 300vh;
 }
+.nav1{
+    float: right;
+}
 
 .c{
     display: flex;
