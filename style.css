@@ -18,14 +18,17 @@ header, main, footer {
 
 }
 
-header,footer{
-    background-image: url("https://www.freepik.com/free-photos-vectors/header-footer-background");
+header{
+    background-image: url("https://pngtree.com/free-backgrounds-photos/website");
 }
 
 main{
-    background-image: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(50, 82, 64, 1) 29%, rgba(245, 220, 0, 1) 100%) ,url("https://www.123freevectors.com/abstract-cool-grey-texture-background-design-120752/");
+    background-image: linear-gradient(90deg,rgba(0, 0, 0, 0.1) 0%, rgba(50, 82, 64, 0.1) 29%, rgba(245, 220, 0, 0.1) 100%) ,url("https://www.123freevectors.com/abstract-cool-grey-texture-background-design-120752/");
 }
 
+footer{
+    background-image: url("https://unsplash.com/s/photos/website-background");
+}
 
 
 
