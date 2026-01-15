@@ -17,6 +17,7 @@ main,footer,header{
 header{
     background-image: url("https://www.freepik.com/free-photos-vectors/authentic-professional-background");
     height: 300vh;
+    box-shadow: 2px 2px 2px blue;
 }
 .nav1{
     float: right;
@@ -33,15 +34,18 @@ header{
     text-align: center;
     justify-content: center;
     align-items: center;
+    box-shadow: 2px 2px 5px white;
 }
 
 .n1 ,.n2{
     width:25%;
     height: 75vh;
+    box-shadow: 2px 2px 5px blue;
 }
 
 footer{
     height: 50vh;
+    box-shadow: 2px 2px 2px blue;
     background-image: url("https://www.freepik.com/free-photos-vectors/professional-background");
 }
 
