@@ -40,6 +40,10 @@ main{
     font-size: 10px;
 }
 
+.main2{
+    color: black;
+    font-family:
+}
 .n1 ,.n2{
     display: 1;
     width:25%;
@@ -72,8 +76,6 @@ footer{
 .hd1{
     background-image: url("https://www.freepik.com/free-photos-vectors/authentic-professional-background");
     height: 30vh;
-    box-shadow: 2px 2px 2px blue;
-    border: 7px solid black;
 }
 
 @keyframes slideIn {
