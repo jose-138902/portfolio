@@ -35,7 +35,7 @@ main{
 }
 
 
-.main{
+#main{
     display: 1;
     width:50%;
     height: 105vh;  
@@ -47,14 +47,12 @@ main{
     color: black;
     font-family: palatino;
     font-size: 10px;
-}
-
-
-
-.main2{
     color: black;
-    font-family: sans-serif;
+    font-family: sans-serif
 }
+
+
+
 
 
 .n1 ,.n2{
@@ -73,12 +71,12 @@ main{
     height: 30vh;
     box-shadow: 2px 2px 2px blue;
     background-image: url("https://www.freepik.com/free-photos-vectors/professional-background");
-    background-color: gray;
+    background-color: rgba(white);
     border: 7px solid black;
     color: black;
     font-family:monospace;
     font-size: 20px;
-    box-shadow: 2px 2px 3px white;
+    box-shadow: 2px 2px 6px black;
 }
 
 
@@ -87,11 +85,7 @@ main{
 
 /* title */
 
-.hd1{
-    background-image: url("https://www.freepik.com/free-photos-vectors/authentic-professional-background");
-    background-color: black;
-    height: 30vh;
-}
+
 
 @keyframes slideIn {
   from {
