@@ -128,16 +128,20 @@ ul{
     background-color: rgba(240, 248, 255, 0.3);
     border-radius: 5%;
     border: 2px solid blue;
+    padding: 10px;
     
 }    
 
 li{
+    margin: 8px 0;
+    padding: 8px;
     background-color: rgba(240, 248, 255, 30%);
     border-radius: 5%;
     border: 2px solid blue;
 }
 
 ul:hover{
+    padding: 11px;
     background-color:rgba(240, 248, 255, 0.8);
     border-radius: 5%;
 
