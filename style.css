@@ -120,7 +120,7 @@ main{
    animation-timing-function: ease-out; /* Makes the animation smoother */
    animation-fill-mode: forwards; 
    background-color: dark-gray;
-
+}
 /*nav  */
 .styled-list {
   background-color: #f0f0f0; /* Add a light gray background */
