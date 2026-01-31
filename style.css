@@ -153,7 +153,7 @@ main{
     font-size: 20px;
     box-shadow: 2px 2px 6px black;
     border: 5px solid black;
-    background-image:linear-gradient(to right, lightblue, white),url("1.avif");
+    background-image:linear-gradient(to right, rgba(244,23,21,0.3), rgba(233,22,55,0.3)),url("1.avif");
 
 }
     /*work on  */
