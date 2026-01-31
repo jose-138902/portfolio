@@ -133,6 +133,7 @@ main{
 
 /* Styling the individual list items (li) */
 .styled-list li {
+  background-color: blue;  
   color: #333;              /* Change text color */
   margin: 5px 0;            /* Add vertical space between items */
   padding: 5px;             /* Add padding around the text within each item */
